@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22662c3f-e940-436f-a94a-8367c115e2ff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="22662c3f-e940-436f-a94a-8367c115e2ff" name="Default Changelist" comment="Deleted unnessasary file called GitHub containing the readme">
+      <change afterPath="$PROJECT_DIR$/InputFiles/inputCombinationsCounting" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProblemsCode/CombinationsCounting.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +18,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProblemsCode/BullsAndCows.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="425">
               <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+              <folding>
+                <element signature="e#22#80#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/InputFiles/inputCombinationsCounting">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProblemsCode/CombinationsCounting.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -59,8 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/InputFiles/inputBicycleRace" />
-        <option value="$PROJECT_DIR$/ProblemsCode/BicycleRace.go" />
         <option value="$PROJECT_DIR$/InterviewCode/LinkedList.go" />
         <option value="$PROJECT_DIR$/ProblemsCode/RotationIn2DSpace.go" />
         <option value="$PROJECT_DIR$/InputFiles/inputRotationIn2DSpace" />
@@ -90,7 +120,6 @@
         <option value="$PROJECT_DIR$/InputFiles/inputPrimeNumbersGeneration" />
         <option value="$PROJECT_DIR$/InputFiles/inputFoolsDay2014" />
         <option value="$PROJECT_DIR$/InputFiles/inputTwoPrinters" />
-        <option value="$PROJECT_DIR$/main.go" />
         <option value="$PROJECT_DIR$/FunctionsPackage/Functions.go" />
         <option value="$PROJECT_DIR$/ProblemsCode/CardNames.go" />
         <option value="$PROJECT_DIR$/ProblemsCode/DoubleDiceRoll.go" />
@@ -110,6 +139,9 @@
         <option value="$PROJECT_DIR$/ProblemsCode/TwoPrinters.go" />
         <option value="$PROJECT_DIR$/InputFiles/inputBullsAndCows" />
         <option value="$PROJECT_DIR$/ProblemsCode/BullsAndCows.go" />
+        <option value="$PROJECT_DIR$/ProblemsCode/CombinationsCounting.go" />
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/InputFiles/inputCombinationsCounting" />
       </list>
     </option>
   </component>
@@ -118,7 +150,9 @@
     <option name="width" value="1740" />
     <option name="height" value="1392" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -146,6 +180,10 @@
               <item name="CodeAbbey" type="462c0819:PsiDirectoryNode" />
               <item name="ProblemsCode" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CodeAbbey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -155,6 +193,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="GO_FMT" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
@@ -242,22 +281,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1160" height="928" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.82107025" visible="true" weight="0.30636364" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.82107025" visible="true" weight="0.30636364" />
       <window_info id="Structure" order="1" sideWeight="0.17892976" side_tool="true" weight="0.2790909" />
       <window_info id="Favorites" order="2" sideWeight="0.16478191" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32955974" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49866548" weight="0.3982412" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49866548" weight="0.1620603" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4990909" weight="0.21509434" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32914573" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49818182" visible="true" weight="0.3316583" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5018182" side_tool="true" weight="0.3316583" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32914573" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49818182" weight="0.5125628" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5018182" side_tool="true" weight="0.17462312" />
       <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.32955974" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -289,17 +329,12 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Deleted unnessasary file called GitHub containing the readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted unnessasary file called GitHub containing the readme" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ProblemsCode/FibonacciSequence.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemsCode/HelloWorld.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProblemsCode/Palindromes.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -493,13 +528,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FunctionsPackage/Functions.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -641,8 +669,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemsCode/BullsAndCows.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="425">
           <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding>
+            <element signature="e#22#80#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -650,6 +681,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="74" selection-start-line="1" selection-start-column="74" selection-end-line="1" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemsCode/CombinationsCounting.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InputFiles/inputCombinationsCounting">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
