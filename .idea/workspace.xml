@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22662c3f-e940-436f-a94a-8367c115e2ff" name="Default Changelist" comment="Added logic to the combinations counting, working with test data">
+    <list default="true" id="22662c3f-e940-436f-a94a-8367c115e2ff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/InputFiles/inputBlackjackCounting" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProblemsCode/BlackjackCounting.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InputFiles/inputCombinationsCounting" beforeDir="false" afterPath="$PROJECT_DIR$/InputFiles/inputCombinationsCounting" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProblemsCode/CombinationsCounting.go" beforeDir="false" afterPath="$PROJECT_DIR$/ProblemsCode/CombinationsCounting.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,31 +20,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InputFiles/inputCombinationsCounting">
+        <entry file="file://$PROJECT_DIR$/InputFiles/inputBlackjackCounting">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ProblemsCode/CombinationsCounting.go">
+        <entry file="file://$PROJECT_DIR$/ProblemsCode/BlackjackCounting.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="342">
+              <caret line="33" column="33" lean-forward="true" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
               <folding>
                 <element signature="e#22#69#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -72,8 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/InterviewCode/LinkedList.go" />
-        <option value="$PROJECT_DIR$/ProblemsCode/RotationIn2DSpace.go" />
         <option value="$PROJECT_DIR$/InputFiles/inputRotationIn2DSpace" />
         <option value="$PROJECT_DIR$/InterviewCode/JosephusProblem.go" />
         <option value="$PROJECT_DIR$/InputFiles/inputJosephusProblem" />
@@ -120,16 +111,18 @@
         <option value="$PROJECT_DIR$/ProblemsCode/TwoPrinters.go" />
         <option value="$PROJECT_DIR$/InputFiles/inputBullsAndCows" />
         <option value="$PROJECT_DIR$/ProblemsCode/BullsAndCows.go" />
-        <option value="$PROJECT_DIR$/main.go" />
         <option value="$PROJECT_DIR$/InputFiles/inputCombinationsCounting" />
         <option value="$PROJECT_DIR$/ProblemsCode/CombinationsCounting.go" />
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/ProblemsCode/BlackjackCounting.go" />
+        <option value="$PROJECT_DIR$/InputFiles/inputBlackjackCounting" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1250" />
-    <option name="width" value="1247" />
-    <option name="height" value="1397" />
+    <option name="x" value="-11" />
+    <option name="width" value="1740" />
+    <option name="height" value="1391" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -261,23 +254,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1250" y="0" width="1247" height="1397" extended-state="0" />
+    <frame x="-7" y="0" width="1160" height="927" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.82107025" visible="true" weight="0.26200506" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.82107025" visible="true" weight="0.28272727" />
       <window_info id="Structure" order="1" sideWeight="0.17892976" side_tool="true" weight="0.2790909" />
       <window_info id="Favorites" order="2" sideWeight="0.16478191" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32955974" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49866548" weight="0.20015699" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49733096" visible="true" weight="0.31698114" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4990909" weight="0.21509434" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32914573" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32830188" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49727273" visible="true" weight="0.340981" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50272727" side_tool="true" weight="0.34170854" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32753164" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49727273" weight="0.340981" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50266904" side_tool="true" weight="0.31382316" />
       <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.32955974" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -310,27 +304,17 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/github" />
+    </ignored-roots>
     <MESSAGE value="Deleted unnessasary file called GitHub containing the readme" />
     <MESSAGE value="Added Combination Counting Files" />
     <MESSAGE value="Added logic to the combinations counting, working with test data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added logic to the combinations counting, working with test data" />
+    <MESSAGE value="Added logic to the combinations counting, working with all data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added logic to the combinations counting, working with all data" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ProblemsCode/Palindromes.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemsCode/PythagoreanTheorem.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProblemsCode/ReverseString.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -675,15 +659,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="85">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProblemsCode/CombinationsCounting.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="646">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#22#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InputFiles/inputBlackjackCounting">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemsCode/BlackjackCounting.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="33" column="33" lean-forward="true" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
           <folding>
             <element signature="e#22#69#0" expanded="true" />
           </folding>

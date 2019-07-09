@@ -3,5 +3,5 @@ package main
 import "CodeAbbey/ProblemsCode"
 
 func main() {
-	ProblemsCode.CombinationsCounting()
+	ProblemsCode.BlackjackCounting()
 }
