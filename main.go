@@ -1,7 +1,10 @@
 package main
 
-import "CodeAbbey/ProblemsCode"
+import (
+	"CodeAbbey/InterestingProjectsByOthers"
+)
 
 func main() {
-	ProblemsCode.BlackjackCounting()
+	InterestingProjectsByOthers.AtomicClock()
+
 }
