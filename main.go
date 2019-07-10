@@ -1,10 +1,8 @@
 package main
 
-import (
-	"CodeAbbey/InterestingProjectsByOthers"
-)
+import "CodeAbbey/ProblemsCode"
 
 func main() {
-	InterestingProjectsByOthers.AtomicClock()
+	ProblemsCode.ParityControl()
 
 }

@@ -12,12 +12,4 @@ func AtomicClock() {
 		panic(err)
 	}
 	fmt.Printf("%s", doc.Find("#twd").Text())
-	fmt.Println()
-
-	var doc2 *goquery.Document
-	var err2 error
-	if doc2, err2 = goquery.NewDocument("https://scarborough.co.uk"); err2 != nil {
-		panic(err2)
-	}
-	fmt.Println(doc2.Find(""))
 }
