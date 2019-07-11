@@ -1,8 +1,10 @@
 package main
 
-import "CodeAbbey/ProblemsCode"
+import (
+	"CodeAbbey/Other"
+	_ "CodeAbbey/ProblemsCode"
+)
 
 func main() {
-	ProblemsCode.ParityControl()
-
+	Other.UsingPoEGo()
 }
