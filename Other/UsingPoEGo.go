@@ -52,7 +52,7 @@ func processStash(stash *api.Stash) {
 
 func processStashByAccount(stash *api.Stash) {
 	for _, item := range stash.Items {
-		if "Facebreaker Strapped Mitts" == item.Name {
+		if "" != item.Name {
 			fmt.Println(item)
 			fmt.Println()
 		}

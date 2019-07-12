@@ -1,10 +1,10 @@
 package main
 
 import (
-	"CodeAbbey/Other"
+	"CodeAbbey/ProblemsCode"
 	_ "CodeAbbey/ProblemsCode"
 )
 
 func main() {
-	Other.UsingPoEGo()
+	ProblemsCode.QuadraticEquation()
 }
