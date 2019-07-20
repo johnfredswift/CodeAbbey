@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22662c3f-e940-436f-a94a-8367c115e2ff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/InputFiles/inputQuadraticEquation" beforeDir="false" afterPath="$PROJECT_DIR$/InputFiles/inputQuadraticEquation" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProblemsCode/QuadraticEquation.go" beforeDir="false" afterPath="$PROJECT_DIR$/ProblemsCode/QuadraticEquation.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Other/Concurrency.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,13 +27,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ProblemsCode/QuadraticEquation.go">
+        <entry file="file://$PROJECT_DIR$/Other/Concurrency.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="39" column="9" lean-forward="true" selection-end-line="49" />
-              <folding>
-                <element signature="e#22#69#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="408">
+              <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -40,7 +38,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FunctionsPackage/Functions.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
+            <state relative-caret-position="2958">
               <caret line="183" column="49" selection-start-line="183" selection-start-column="49" selection-end-line="183" selection-end-column="49" />
             </state>
           </provider>
@@ -80,7 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ProblemsCode/MatchingBrackets.go" />
         <option value="$PROJECT_DIR$/PC/BubbleInArray.go" />
         <option value="$PROJECT_DIR$/ProblemsCode/BubbleSort.go" />
         <option value="$PROJECT_DIR$/InterviewCode/BubbleSort.go" />
@@ -127,16 +124,18 @@
         <option value="$PROJECT_DIR$/ProblemsCode/ParityControl.go" />
         <option value="$PROJECT_DIR$/Other/UsingPoEGo.go" />
         <option value="$PROJECT_DIR$/../poe-go/examples/poe-indexing-101/main.go" />
-        <option value="$PROJECT_DIR$/main.go" />
         <option value="$PROJECT_DIR$/FunctionsPackage/Functions.go" />
-        <option value="$PROJECT_DIR$/ProblemsCode/QuadraticEquation.go" />
         <option value="$PROJECT_DIR$/InputFiles/inputQuadraticEquation" />
+        <option value="$PROJECT_DIR$/ProblemsCode/QuadraticEquation.go" />
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/Other/Concurrency.go" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-12" />
-    <option name="width" value="2007" />
+    <option name="y" value="-12" />
+    <option name="width" value="1740" />
     <option name="height" value="1392" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -168,7 +167,7 @@
             <path>
               <item name="CodeAbbey" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodeAbbey" type="462c0819:PsiDirectoryNode" />
-              <item name="ProblemsCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Other" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -184,7 +183,7 @@
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/InterviewCode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -265,15 +264,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1338" height="927" extended-state="0" />
+    <frame x="-7" y="-7" width="2308" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.82107025" visible="true" weight="0.17605634" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.82107025" visible="true" weight="0.08496441" />
       <window_info id="Structure" order="1" sideWeight="0.17892976" side_tool="true" weight="0.2790909" />
       <window_info id="Favorites" order="2" sideWeight="0.16478191" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32955974" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49733096" weight="0.3119497" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49688613" weight="0.28019926" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4990909" weight="0.21509434" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -282,7 +281,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32663316" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49727273" weight="0.33836478" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50266904" side_tool="true" weight="0.31382316" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50311387" side_tool="true" weight="0.51307595" />
       <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.32955974" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -327,17 +326,11 @@
     <MESSAGE value="Added Parity Control files and Parity Control logic" />
     <MESSAGE value="Added some libaries and coding examples for Path of Exile" />
     <MESSAGE value="Added Files and logic for Quadratic Equation, Works for real numbers but not for values of i, i multiples and additions are treated as the same taking, for example 9 - 2i is treated as 7 - i." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Files and logic for Quadratic Equation, Works for real numbers but not for values of i, i multiples and additions are treated as the same taking, for example 9 - 2i is treated as 7 - i." />
+    <MESSAGE value="Fixed logic for Quadratic Equations, now works with both real and complex results" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed logic for Quadratic Equations, now works with both real and complex results" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/InputFiles/inputBitCount">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="316" selection-start-line="1" selection-start-column="316" selection-end-line="1" selection-end-column="316" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/InputFiles/inputCaesarShiftCipher">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -694,6 +687,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ProblemsCode/QuadraticEquation.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -703,7 +703,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FunctionsPackage/Functions.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
+        <state relative-caret-position="2958">
           <caret line="183" column="49" selection-start-line="183" selection-start-column="49" selection-end-line="183" selection-end-column="49" />
         </state>
       </provider>
@@ -715,13 +715,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProblemsCode/QuadraticEquation.go">
+    <entry file="file://$PROJECT_DIR$/Other/Concurrency.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="39" column="9" lean-forward="true" selection-end-line="49" />
-          <folding>
-            <element signature="e#22#69#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="408">
+          <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
         </state>
       </provider>
     </entry>

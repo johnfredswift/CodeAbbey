@@ -1,10 +1,10 @@
 package main
 
 import (
-	"CodeAbbey/ProblemsCode"
+	"CodeAbbey/Other"
 	_ "CodeAbbey/ProblemsCode"
 )
 
 func main() {
-	ProblemsCode.QuadraticEquation()
+	Other.LatticePaths()
 }
